@@ -32,7 +32,7 @@ python main.py
 You can specify a different username and follower limit with the `-u` and `-l` flags:
 
 ```bash
-python main.py -u kukuri_xyz
+python main.py -u mwkri_xii
 ```
 
 The script will send a Discord notification with the results when it's finished.
